@@ -1,0 +1,59 @@
+Beta8:
+    June 6, 2007
+    * hp bar is no longer upside down
+    * new colors for hp
+
+Beta7:
+    June 6, 2007
+    * re-added support for laser mods
+    * new ship
+    * removed stolen windows logo
+    * reorganized img/ directory
+
+Beta6:
+    June 4, 2007
+    * boss level
+    * hp system for enemies
+    * bullets no longer bitmaps
+    * moved around shit in main loop
+
+Beta5 (unreleased):
+    June 1, 2007
+    * sound toggle
+    * code is less fucked up too
+    * code is way more fucked up
+    * game over displays points
+    * money now gives points
+    * moved some shit around
+    * fixed super-fast powerup
+    * guns are sort of modular
+    * single gun is now default
+    * im tired
+    * bleah
+    
+Beta4:
+    May 25, 2007
+    * Fixed YOU WIN screen
+    * changed world script
+    * changed ship image
+    
+Beta3:
+    May 22, 2007
+    * Fixed crash on you win screen
+
+Beta2:
+	May 19, 2007
+	* Cleaned up LineMovement
+	* Cleaned EneterTopMovement
+	* HpMeter now reappears when restarting game
+	* Cleaned up BounceMovement
+	* Cleaned up bullets.py
+	* Moved Score and HpMeter to seperate file: info.py
+
+
+Beta1:	First released beta! 
+	Features in this version:
+	* 5 different enemies
+	* 12 waves of enemies
+	* Sound effects
+
