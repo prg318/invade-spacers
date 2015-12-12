@@ -1,3 +1,3 @@
-run the program, run this command: 
+This is a space invaders clone-ish thing when I was learning to program in high school.  It requires python2 and pygame.  I learned a lot from writing this and it's probably a great example of how *not* to do things.
 
-$   python invade.py
+This game was made with Microsoft Paint, Microsoft Wave Recorder, a pair of headphones, and vim.  Enjoy?

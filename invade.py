@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # invade.py
 # fg space invadors
 # space invadors clone because I am bored.
